@@ -77,6 +77,7 @@ filename$=d$+"-"+uniq$+"-swl.txt"
 
 rs$=radio$(Int(Val(cradio$)))
 antv$=ant$(Val(cant$))
+weather$=wtags$(Int(Val(wtag$)))
 
 Open filename$ For output As #1
 
