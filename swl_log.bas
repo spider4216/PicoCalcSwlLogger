@@ -83,7 +83,7 @@ Open filename$ For output As #1
 
 Print #1, "Date: "+d$
 Print #1, "Time: "+t$
-Print #1, "Weather tag: "+wtag$
+Print #1, "Weather tag: "+weather$
 Print #1, "Degree: "+deg$
 Print #1, "Radio: "+rs$
 Print #1, "Antena: "+antv$
